@@ -8,7 +8,12 @@ contributor:
     - Various, Various
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 70374-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70374#The-Burlington-magazine-b-for-connoisseurs-vol-IIJune-to-August
 gutenberg_issued: '2023-03-25'
 identifiers:
   gutenberg: '70374'
